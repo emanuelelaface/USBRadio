@@ -9,8 +9,8 @@ This project was developed to make this interface suitable for use with **AllSta
 ![USBRadio schematic diagram](images/diagram.jpg)
 
 <p align="center">
-  <img src="images/img1.PNG" alt="USBRadio board photo 1" width="45%" />
-  <img src="images/img2.PNG" alt="USBRadio board photo 2" width="45%" />
+  <img src="images/img1.PNG" alt="USBRadio board photo 1" width="15%" />
+  <img src="images/img2.PNG" alt="USBRadio board photo 2" width="15%" />
 </p>
 
 ## Overview
