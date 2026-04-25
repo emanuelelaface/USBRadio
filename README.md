@@ -42,9 +42,15 @@ This hardware is especially intended as a compact interface for radio systems co
 
 It can be used as a starting point for custom node interfaces, radio adapters, and amateur radio integration projects.
 
+## 3D Printing Files
+
+This repository also includes 3D printable files for both **filament (FDM)** and **resin** printers.
+
+These files were created by [ScaleIT 3D](https://scaleit3d.it/).
+
 ## Notes
 
-At the moment, this repository mainly contains the essential **hardware design files**. No firmware, host software, or detailed assembly guide is included.
+At the moment, this repository mainly contains the essential **hardware design files** and the **3D printing files**. No firmware, host software, or detailed assembly guide is included.
 
 Before manufacturing or connecting the board to an actual radio, it is recommended to verify:
 
