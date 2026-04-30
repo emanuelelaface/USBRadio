@@ -1,12 +1,12 @@
-Designator,Footprint,JLCPCB Part #,Quantity,Description,Manufacturer,Comment,Value
-"C1,C2",20pF 0805,C1798,2,20pFÊ50V C0G ±5%Ê0805ÊMultilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Samsung Electro-Mechanics,,
-"C3,C5",100nF 0805,C1711,2,100nFÊ50V X7R ±10%Ê0805ÊMultilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Samsung Electro-Mechanics,,
-"C4,C6,C7",4.7uF 0805,C1779,3,25V 4.7uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Samsung Electro-Mechanics,,
-"C8,C9",1uF 0805,C1712,2,1uF 25V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Samsung Electro-Mechanics,,
-U1,CM108B LQFP48,C371347,1,-20_~+70_ 4.5V~5.5V 44.1kHz~48kHz Encoder/decoder I2S_USB LQFP-48(7x7) Audio Interface ICs ROHS,Cmedia,,
-D1,BAT46W D_SOD-123,C127928,1,-55_~+125_ 1 Independent 100V 150mA 450mV@10mA 5uA@75V 750mA SOD-123 Schottky Diodes ROHS,ST(Semtech),,
-L1,10u 0805,C1046,1,1.15½ 10uH 15mA 24MHz 50@2MHz Multilayer inductor ±10% 0805 Inductors (SMD) ROHS,Sunlord,,
-Q1,BSS138 SOT-23,C78284,1,-55_~+150_ 1 N-channel 220mA 27pF 350mW 50V 6pF 6½@4.5V 800mV SOT-23 MOSFETs ROHS,"Jiangsu Changjing Electronics Technology Co., Ltd.",,
-"R1,R3",22 Ohm 0805,C22356772,2,-55_~+155_ 125mW 150V 22½ ±1% ±100ppm/_ 0805 Chip Resistor - Surface Mount ROHS,HKR(Hong Kong Resistors),,
-R2,1.5k Ohm 0805,C702828,1,-55_~+155_ 1.5k½ 125mW 150V Thick Film Resistor ±1% ±100ppm/_ 0805 Chip Resistor - Surface Mount ROHS,HKR(Hong Kong Resistors),,
-Y1,12MHz SMD_3225,C295522,1,-40_~+85_ 12MHz 15mA 3.3V ±50ppm SMD3225-4P Crystal Oscillators ROHS,TAITIEN Elec,,
+Comment,Designator,Footprint,JLCPCB Part #
+20pF,"C1,C2",0805,C1798
+100nF,"C3,C5",0805,C1711
+4.7uF,"C4,C6,C7",0805,C1779
+1uF,"C8,C9",0805,C1712
+CM108B,U1,LQFP-48(7x7),C371347
+BAT46W,D1,SOD-123,C127928
+10uH,L1,0805,C1046
+BSS138,Q1,SOT-23,C78284
+22 Ohm,"R1,R3",0805,C22356772
+1.5k Ohm,R2,0805,C702828
+12MHz,Y1,SMD3225-4P,C295522
